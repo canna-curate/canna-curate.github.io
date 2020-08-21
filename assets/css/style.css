@@ -80,6 +80,7 @@ body {
   hypens: auto;
   word-wrap: break-word;
 }
+
 a,
 a:hover,
 a:focus {
@@ -3324,3 +3325,11 @@ figure:hover .image-overlay {
 /*********************
  * 22.0 - Newsletter signup end
  *********************/
+
+/*********************
+ * 23.0 - BluntZoNe
+ *********************/
+
+ .ghr-logo-mainpage {
+   text-align: center;
+ }
