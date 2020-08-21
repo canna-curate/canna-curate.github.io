@@ -2174,12 +2174,12 @@ section .inner {
 }
 footer.slider-content,
 section.slider-content {
-  background-image: url('../images/backgrounds/whitney.jpg');
+  background-image: url('../images/backgrounds/whitney.png');
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
-  padding: 0 0;
+  padding: 0 0 60 60;
 }
 footer.slider-content::before,
 section.slider-content::before {
