@@ -2181,6 +2181,16 @@ section.slider-content {
   position: relative;
   padding: 0 0 60 60;
 }
+@media only screen and (max-width: 800px) {
+  section.slider-content {
+    background-image: url('../images/backgrounds/cannafest2020.png');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    padding: 0 0 60 60;
+  }
+}
 footer.slider-content::before,
 section.slider-content::before {
   position: absolute;
@@ -3333,3 +3343,4 @@ figure:hover .image-overlay {
  .ghr-logo-mainpage {
    text-align: center;
  }
+}
