@@ -2177,7 +2177,7 @@ section.slider-content {
   background-image: url('../images/backgrounds/whitney.png');
   background-position: center center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 100% 100%;
   position: relative;
   padding: 0 0 60 60;
 }
@@ -2186,7 +2186,7 @@ section.slider-content {
     background-image: url('../images/backgrounds/cannafest2020.png');
     background-position: center center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 100% 100%;
     position: relative;
     padding: 0 0 60 60;
   }
